@@ -129,7 +129,7 @@
 [submodule "WPtouch"]
 	path = WPtouch
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/WPtouch
-	branch = REL1_35
+	branch = master
 [submodule "WikimediaApiPortal"]
 	path = WikimediaApiPortal
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/WikimediaApiPortal
