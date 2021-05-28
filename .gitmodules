@@ -157,7 +157,7 @@
 [submodule "citizen"]
 	path = citizen
 	url = https://github.com/StarCitizenTools/mediawiki-skins-Citizen
-	branch = master
+	branch = main
 [submodule "DarkVector"]
 	path = DarkVector
 	url = https://github.com/dolfinus/DarkVector/
