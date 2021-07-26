@@ -186,3 +186,59 @@
 	path = Tweeki
 	url = https://github.com/thaider/Tweeki/
 	branch = master
+[submodule "Alexandria"]
+	path = Alexandria
+	url = https://github.com/jdlrobson/Alexandria/
+	branch = master
+[submodule "BlueLL"]
+	path = BlueLL
+	url = https://github.com/lingua-libre/BlueLL/
+	branch = master
+[submodule "Evelution"]
+	path = Evelution
+	url = https://github.com/AWikia/SkinEvelution/
+	branch = main
+[submodule "Library"]
+	path = Library
+	url = https://github.com/yongxinL/mediawiki-skins-Library/
+	branch = master
+[submodule "Jony"]
+	path = Jony
+	url = https://github.com/Dialexio/Jony
+	branch = master
+[submodule "Mirage"]
+	path = Mirage
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Mirage
+	branch = master
+[submodule "Onyx"]
+	path = Onyx
+	url = https://github.com/Halopedia/Onyx/
+	branch = master
+[submodule "ScratchWikiSkin2"]
+	path = ScratchWikiSkin2
+	url = https://github.com/InternationalScratchWiki/ScratchWikiSkin2/
+	branch = master
+[submodule "snapwikiskin"]
+	path = snapwikiskin
+	url = https://github.com/snapwiki/snapwikiskin/
+	branch = stable
+[submodule "Cavendish"]
+	path = Cavendish
+	url = https://github.com/DaSchTour/Cavendish/
+	branch = master
+[submodule "GuMaxDD"]
+	path = GuMaxDD
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/GuMaxDD
+	branch = master
+[submodule "WMAU"]
+	path = WMAU
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/WMAU
+	branch = master
+[submodule "Lakeus"]
+	path = Lakeus
+	url = https://github.com/lakejason0/mediawiki-skins-Lakeus/
+	branch = master
+[submodule "2018"]
+	path = 2018
+	url = https://github.com/morags/mediawiki-2018-skin/
+	branch = master
