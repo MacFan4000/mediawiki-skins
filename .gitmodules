@@ -209,7 +209,7 @@
 [submodule "Mirage"]
 	path = Mirage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/Mirage
-	branch = master
+	branch = REL1_36
 [submodule "Onyx"]
 	path = Onyx
 	url = https://github.com/Halopedia/Onyx/
@@ -229,7 +229,7 @@
 [submodule "GuMaxDD"]
 	path = GuMaxDD
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/GuMaxDD
-	branch = master
+	branch = REL1_36
 [submodule "WMAU"]
 	path = WMAU
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/skins/WMAU
