@@ -101,7 +101,7 @@
 [submodule "Schulenburg"]
 	path = Schulenburg
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Schulenburg
-	branch = REL1_36
+	branch = master
 [submodule "Splash"]
 	path = Splash
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Splash
@@ -165,7 +165,7 @@
 [submodule "FemiwikiSkin"]
 	path = FemiwikiSkin
 	url = https://github.com/femiwiki/FemiwikiSkin/
-	branch = REL1_36
+	branch = main
 [submodule "foreground"]
 	path = foreground
 	url = https://github.com/jthingelstad/foreground
