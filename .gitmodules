@@ -165,7 +165,7 @@
 [submodule "FemiwikiSkin"]
 	path = FemiwikiSkin
 	url = https://github.com/femiwiki/FemiwikiSkin/
-	branch = main
+	branch = REL1_36
 [submodule "foreground"]
 	path = foreground
 	url = https://github.com/jthingelstad/foreground
