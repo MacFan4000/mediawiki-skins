@@ -220,7 +220,7 @@
 	branch = stable
 [submodule "Cavendish"]
 	path = Cavendish
-	url = https://github.com/DaSchTour/Cavendish/
+	url = https://github.com/wikimedia/mediawiki-skins-Cavendish/
 	branch = master
 [submodule "GuMaxDD"]
 	path = GuMaxDD
