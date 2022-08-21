@@ -164,7 +164,7 @@
 	branch = REL1_38
 [submodule "foreground"]
 	path = foreground
-	url = https://github.com/jthingelstad/foreground
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Foreground
 	branch = master
 [submodule "Liberty"]
 	path = Liberty
