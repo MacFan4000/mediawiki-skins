@@ -177,7 +177,7 @@
 [submodule "pivot"]
 	path = pivot
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Pivot/
-	branch = master
+	branch = REL1_38
 [submodule "Tweeki"]
 	path = Tweeki
 	url = https://github.com/thaider/Tweeki/
