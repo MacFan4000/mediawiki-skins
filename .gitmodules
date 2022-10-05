@@ -176,7 +176,7 @@
 	branch = master
 [submodule "pivot"]
 	path = pivot
-	url = https://github.com/Hutchy68/pivot/
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Pivot/
 	branch = master
 [submodule "Tweeki"]
 	path = Tweeki
