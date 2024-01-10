@@ -5,7 +5,7 @@
 [submodule "Anisa"]
 	path = Anisa
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Anisa
-	branch = REL1_41
+	branch = master
 [submodule "BlueSky"]
 	path = BlueSky
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/BlueSky
