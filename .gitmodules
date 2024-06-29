@@ -161,7 +161,7 @@
 [submodule "FemiwikiSkin"]
 	path = FemiwikiSkin
 	url = https://github.com/femiwiki/FemiwikiSkin/
-	branch = REL1_41
+	branch = main
 [submodule "foreground"]
 	path = foreground
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Foreground
