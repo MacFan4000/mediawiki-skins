@@ -237,4 +237,4 @@
 [submodule "2018"]
 	path = 2018
 	url = https://github.com/wikimedia/mediawiki-skins-2018
-	branch = master
+	branch = REL1_42
