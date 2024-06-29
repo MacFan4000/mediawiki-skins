@@ -236,5 +236,5 @@
 	branch = master
 [submodule "2018"]
 	path = 2018
-	url = https://github.com/morags/mediawiki-2018-skin/
+	url = https://github.com/wikimedia/mediawiki-skins-2018
 	branch = master
