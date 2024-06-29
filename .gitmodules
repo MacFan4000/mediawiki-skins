@@ -168,7 +168,7 @@
 	branch = master
 [submodule "Liberty"]
 	path = Liberty
-	url = https://gitlab.com/librewiki/Liberty-MW-Skin/
+	url = https://github.com/librewiki/liberty-skin
 	branch = master
 [submodule "medik"]
 	path = medik
