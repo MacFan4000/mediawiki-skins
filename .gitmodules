@@ -158,8 +158,8 @@
 	path = DarkVector
 	url = https://github.com/dolfinus/DarkVector/
 	branch = master
-[submodule "FemiwikiSkin"]
-	path = FemiwikiSkin
+[submodule "Femiwiki"]
+	path = Femiwiki
 	url = https://github.com/femiwiki/FemiwikiSkin/
 	branch = main
 [submodule "foreground"]
