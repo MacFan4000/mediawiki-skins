@@ -238,3 +238,7 @@
 	path = 2018
 	url = https://github.com/wikimedia/mediawiki-skins-2018
 	branch = REL1_44
+[submodule "mediawiki-strapping"]
+	path = mediawiki-strapping
+	url = https://github.com/wikimedia/mediawiki-skins-mediawiki-strapping
+	branch = REL1_44
