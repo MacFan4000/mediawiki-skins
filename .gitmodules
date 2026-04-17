@@ -165,7 +165,7 @@
 [submodule "foreground"]
 	path = foreground
 	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Foreground
-	branch = master
+	branch = REL1_45
 [submodule "Liberty"]
 	path = Liberty
 	url = https://github.com/librewiki/liberty-skin
