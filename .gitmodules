@@ -172,7 +172,7 @@
 	branch = master
 [submodule "medik"]
 	path = medik
-	url = https://bitbucket.org/wikiskripta/medik/
+	url = https://github.com/wikiskripta/Medik
 	branch = master
 [submodule "pivot"]
 	path = pivot
